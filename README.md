@@ -6,14 +6,14 @@ The March Mania Campaign Reach product.
 
 ###Login to the Front End
 ```
-URL: marchmania.localhost.en/
+URL: rampart-mm.localhost.en/
 UN: test@test.com
 PW: testing
 ```
 
 ###Login to the Admin
 ```
-URL: marchmania-portal.localhost.en/administrator
+URL: rampart-mm-portal.localhost.en/administrator
 UN: testing
 PW: testing
 ```

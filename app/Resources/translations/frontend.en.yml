@@ -260,7 +260,7 @@ fzone:
   myvouchers:
     header: ""
     headline: "MY PRIZES"
-    bodycopy: "View your active rewards and redeem them by swiping your Rampart Rewards Card at any Rampart promotional kiosk kiosk during the dates shown below."
+    bodycopy: "View your active rewards and redeem them by swiping your Rampart Rewards Card at any Rampart promotional kiosk during the dates shown below."
     details: "<p><span class=\"goGold\">Player Name</span>: %issuedTo%</p>
       <p><span class=\"goGold\">Rampart Rewards Card Number</span>: %playerscard%</p>
       <p><span class=\"goGold\">Date Issued</span>: %issued_date%</p>
